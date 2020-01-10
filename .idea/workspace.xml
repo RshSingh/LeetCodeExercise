@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5127005-5b13-47b0-a537-d9bada30b9a7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VR0Iz7oVl4p5z9AuehkDQgYaQF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PostOrderTraversal">
+    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="addTwoNumbersLinkedList.AddTwoNumbers" />
+      <module name="codeProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="addTwoNumbersLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BalancedBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="balancedBinaryTree.BalancedBinaryTree" />
+      <module name="codeProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="balancedBinaryTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InorderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inorderTraversal.InorderTraversal" />
+      <module name="codeProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inorderTraversal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="postOrderTraversal.PostOrderTraversal" />
+      <module name="codeProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="postOrderTraversal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PreOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PreOrderTraversal.PreOrderTraversal" />
+      <module name="codeProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PreOrderTraversal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PostOrderTraversal" />
+        <item itemvalue="Application.InorderTraversal" />
+        <item itemvalue="Application.PreOrderTraversal" />
+        <item itemvalue="Application.BalancedBinaryTree" />
+        <item itemvalue="Application.AddTwoNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5127005-5b13-47b0-a537-d9bada30b9a7" name="Default Changelist" comment="" />
+      <created>1577200523229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577200523229</updated>
+      <workItem from="1577200524629" duration="30052000" />
+      <workItem from="1577406163719" duration="8930000" />
+      <workItem from="1577545368587" duration="2675000" />
+      <workItem from="1577717868194" duration="16000" />
+      <workItem from="1577765391871" duration="368000" />
+      <workItem from="1577802005029" duration="4252000" />
+      <workItem from="1577906274147" duration="6060000" />
+      <workItem from="1578159739787" duration="8695000" />
+      <workItem from="1578537968278" duration="3776000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortedLinkedListToBinary/SortedLinkedListToBinary.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sortedLinkedListToBinary/SortedLinkedListToBinary.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pathSumII/PathSumII.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/addTwoNumbersII/AddTwoNumbersII.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/addTwoNumbersII/AddTwoNumbersII.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/addTwoNumbersLinkedList/AddTwoNumbers.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/intersectionTwolinkedList/Intersection.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/intersectionTwolinkedList/Intersection.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
