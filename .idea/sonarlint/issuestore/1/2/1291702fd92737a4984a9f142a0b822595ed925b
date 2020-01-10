@@ -1,8 +1,0 @@
-
-jsquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(•ν«•8‡δυ-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ρχ…Έ8υλ©δυ-
-jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿΓϊ΄όÿÿÿÿ
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(½©™8υλ©δυ-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ά‡»΄ϊÿÿÿÿ

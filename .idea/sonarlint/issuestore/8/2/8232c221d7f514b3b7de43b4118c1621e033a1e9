@@ -1,11 +1,0 @@
-
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„Î¼†ÿÿÿÿÿ
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8İõÑó-
-Isquid:S1444",Make this "public static result" field final(‚ÇÙm8¦áğÑó-
-†"squid:ClassVariableVisibilityCheck"RMake result a static final constant or non-public and provide accessors if needed.(‚ÇÙm8¦áğÑó-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(úÜ“¥8©¯«÷-
-isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(š´êé8¨˜³÷-
-nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(‚¥—Óşÿÿÿÿ8¨˜³÷-
-nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(“Š¬õşÿÿÿÿ8¨˜³÷-
-isquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(¿Ú‘è8¨˜³÷-
